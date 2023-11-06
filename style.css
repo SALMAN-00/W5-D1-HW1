@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: rgb(240, 239, 239);
+}
+nav {
+  background-color: rgb(28, 28, 178);
+}
+footer {
+  text-align: center;
+  background-color: rgb(28, 28, 178);
+}
+h1 {
+  color: white;
+}
+h2 {
+  color: rgb(28, 28, 178);
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+p {
+  color: white;
+}
+.med {
+  margin-left: 350px;
+  margin-bottom: 50px;
+}
+.container {
+  height: 300px;
+  display: flex;
+  gap: 10px;
+
+  background-color: rgb(28, 28, 178);
+}
+button {
+  border: 1px solid blue;
+  border-radius: 3px;
+}
+input {
+  width: 600px;
+}
+.div1,
+.div2,
+.div3,
+.div4 {
+  width: 25%;
+  background-color: white;
+  padding: 20px;
+  margin: 10px;
+  box-sizing: border-box;
+}
+.size {
+  color: rgb(136, 136, 136);
+}
